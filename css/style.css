@@ -1,0 +1,61 @@
+/* login */
+
+.shadow {
+    margin-top: 8%;
+    /* margin-left: 20%; */
+    /* margin-left: 15%; */
+}
+
+.bg-left{
+    width: 100%;
+    height: inherit;
+    /* max-width: 100%;  */
+    
+}
+
+
+.bg-right{
+    margin-top: 10px;
+    margin-left: 38%;
+    width: 25%;
+}
+
+.form-login{
+    margin-left: 25%;
+    width: 50%;
+}
+
+input::placeholder {
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 10px;
+  }
+
+.btn{
+    margin-left: 25%;
+    width: 50%;
+}
+
+.link-form{
+    font-size: small;
+    text-align: center;
+    color: grey;
+    margin-bottom: 30px;
+}
+
+/* register */
+
+.shadows{
+    margin-right: 20%;
+    margin-left: 35%;
+    margin-top: 7%;
+    color: black;
+    background-color: rgb(255, 255, 255);
+    padding-bottom: 20px;
+}
+
+/* Home */
+
+.background img{
+    width: 100%;
+}
